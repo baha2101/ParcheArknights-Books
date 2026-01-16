@@ -1,8 +1,18 @@
 {
   "books": [
     {
-      "id": "capitulo_0",
-      "url": "https://raw.githubusercontent.com/baha2101/ParcheArknights-Books/main/capitulo_0.json",
+      "id": "level_main_00-00",
+      "url": "https://raw.githubusercontent.com/baha2101/ParcheArknights-Books/main/level_main_00-00.json",
+      "version": 1
+    },
+    {
+      "id": "level_main_00-01_beg",
+      "url": "https://raw.githubusercontent.com/baha2101/ParcheArknights-Books/main/level_main_00-01_beg.json",
+      "version": 1
+    },
+    {
+      "id": "level_main_00-01_end",
+      "url": "https://raw.githubusercontent.com/baha2101/ParcheArknights-Books/main/level_main_00-01_end.json",
       "version": 1
     }
   ]
