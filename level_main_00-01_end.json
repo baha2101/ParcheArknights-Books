@@ -1,0 +1,300 @@
+[
+ {
+  "ENName": "Dobermann",
+  "English": "How could this be...",
+  "Spanish": "¿Cómo puede ser...?"
+ },
+ {
+  "English": "What in the world... is going on here?",
+  "Spanish": "¿Qué demonios... está pasando aquí?"
+ },
+ {
+  "ENName": "Reunion Member",
+  "English": "Search all these houses! I want every single room turned inside out!",
+  "Spanish": "¡Busquen en todas estas casas! ¡Quiero cada habitación al revés!"
+ },
+ {
+  "ENName": "Female",
+  "English": "Let go of me...! No! You can't...",
+  "Spanish": "¡Suéltenme...! ¡No! No pueden..."
+ },
+ {
+  "ENName": "Reunion Member",
+  "English": "Trying to resist? Too late, you filthy Chernos!",
+  "Spanish": "¿Intentas resistirte? ¡Demasiado tarde, Chernosi asqueroso!"
+ },
+ {
+  "ENName": "Male",
+  "English": "Just run! Don't worry about me... Save... our child...",
+  "Spanish": "¡Sólo corre! No te preocupes por mí... Salva... a nuestro hijo..."
+ },
+ {
+  "ENName": "Child",
+  "English": "Mama... Mama...!",
+  "Spanish": "¡Mama... Mamá...!"
+ },
+ {
+  "ENName": "Ursus Guard",
+  "English": "Forget about the civilians! Hold the line first! There are too many masked goons coming!",
+  "Spanish": "¡Olvídate de los civiles! ¡Primero mantengan la línea! ¡Vienen demasiados matones enmascarados!"
+ },
+ {
+  "ENName": "Reunion Member",
+  "English": "Don't give the cops any time to rest! Keep attacking!",
+  "Spanish": "¡No les den tiempo a los policías para descansar! ¡¡Sigan atacando!!"
+ },
+ {
+  "ENName": "Ursus Guard",
+  "English": "Where are our reinforcements?! We're going to get overrun...",
+  "Spanish": "¡¿Dónde están nuestros refuerzos?! Vamos a ser invadidos..."
+ },
+ {
+  "ENName": "Reunion Member",
+  "English": "Attack, attack!!",
+  "Spanish": "¡Ataquen, ataquen!"
+ },
+ {
+  "ENName": "Amiya",
+  "English": "What's going on...?! Why... Why is Reunion doing this...?",
+  "Spanish": "¡¿Qué está pasando...?! Por qué... ¿Por qué Reunión está haciendo esto...?"
+ },
+ {
+  "ENName": "Dobermann",
+  "English": "After all these years, the wolves in sheep's clothing finally bare their fangs.",
+  "Spanish": "Después de todos estos años, los lobos con piel de oveja finalmente muestran sus colmillos."
+ },
+ {
+  "ENName": "Medic",
+  "English": "The Infected... they, they're attacking the Ursus troops!",
+  "Spanish": "Los infectados... ellos, ¡están atacando a las tropas de Ursus!"
+ },
+ {
+  "ENName": "Guard",
+  "English": "But why?! Challenging the Ursus government like this is basically suicide!",
+  "Spanish": "¡¿Pero por qué?! ¡Desafiar al gobierno de Ursus así es básicamente un suicidio!"
+ },
+ {
+  "ENName": "Dobermann",
+  "English": "No, look at how fierce this attack is. This must have been a planned operation.",
+  "Spanish": "No, mira lo feroz que es este ataque. Esto debe haber sido una operación planificada."
+ },
+ {
+  "English": "The place we rescued Doctor from was supposed to be top secret... but they somehow still managed to infiltrate it.",
+  "Spanish": "El lugar del que rescatamos al Doctor se suponía que era alto secreto... pero de alguna manera se las arreglaron para infiltrarse."
+ },
+ {
+  "English": "It's possible that Reunion's attack has already spread through Chernobog in its entirety.",
+  "Spanish": "Es posible que el ataque de Reunión ya se haya extendido por todo Chernobog."
+ },
+ {
+  "ENName": "Guard",
+  "English": "No... How, how can that be...",
+  "Spanish": "No... ¿Cómo, cómo puede ser eso..."
+ },
+ {
+  "ENName": "Amiya",
+  "English": "Shhhh!",
+  "Spanish": "¡Shhhh!"
+ },
+ {
+  "ENName": "Reunion Member A",
+  "English": "Have you found any of those fleeing Chernos yet?",
+  "Spanish": "¿Has encontrado ya a alguno de esos Chernos que huyeron?"
+ },
+ {
+  "ENName": "Reunion Member B",
+  "English": "I'm still looking!",
+  "Spanish": "¡Sigo buscando!"
+ },
+ {
+  "ENName": "Reunion Member A",
+  "English": "Good, don't let a single one get away!",
+  "Spanish": "Bien, ¡que no se escape ni uno!"
+ },
+ {
+  "English": "Those cold-blooded beasts... I'll make them pay for what they did to my family!",
+  "Spanish": "Esas bestias de sangre fría... ¡Les haré pagar por lo que le hicieron a mi familia!"
+ },
+ {
+  "ENName": "Medic",
+  "English": "(*cough*)",
+  "Spanish": "(*cof*)"
+ },
+ {
+  "ENName": "Reunion Member A",
+  "English": "What was that?",
+  "Spanish": "¿Qué fue eso?"
+ },
+ {
+  "ENName": "Reunion Member B",
+  "English": "Over there!",
+  "Spanish": "¡Allí!"
+ },
+ {
+  "ENName": "Medic",
+  "English": "(Mmfh!)",
+  "Spanish": "(¡Mmfh!)"
+ },
+ {
+  "English": "(They... they found us...)",
+  "Spanish": "(Ellos... nos encontraron...)"
+ },
+ {
+  "ENName": "Dobermann",
+  "English": "(Shush!)",
+  "Spanish": "(¡Shhh!)"
+ },
+ {
+  "ENName": "Medic",
+  "English": "(Mmf...!)",
+  "Spanish": "(¡Mmf...!)"
+ },
+ {
+  "ENName": "Female",
+  "English": "...Ugh...",
+  "Spanish": "...Ugh..."
+ },
+ {
+  "ENName": "Reunion Member A",
+  "English": "Over here! I found 'em!",
+  "Spanish": "¡Por aquí! ¡Los encontré!"
+ },
+ {
+  "ENName": "Female",
+  "English": "...Nooooo!!!!",
+  "Spanish": "¡¡¡¡...Nooooo!!!!"
+ },
+ {
+  "English": "Aaah! No, don't...",
+  "Spanish": "¡Aaah! No, no..."
+ },
+ {
+  "ENName": "Reunion Member B",
+  "English": "...!",
+  "Spanish": "¡...!"
+ },
+ {
+  "English": "Hiding in an alley?",
+  "Spanish": "¿Escondiéndote en un callejón?"
+ },
+ {
+  "English": "Get out.",
+  "Spanish": "Sal."
+ },
+ {
+  "ENName": "Female",
+  "English": "Aaaaahh...!",
+  "Spanish": "¡Aaaaahh...!"
+ },
+ {
+  "ENName": "Reunion Member B",
+  "English": "Did you really think we wouldn't find you there...?",
+  "Spanish": "¿De verdad pensabas que no te encontraríamos allí...?"
+ },
+ {
+  "ENName": "Female",
+  "English": "I'm... I'm sorry! I'm so sorry!! Please, at least spare my child!",
+  "Spanish": "¡¡Lo... Lo siento!! ¡¡Lo siento mucho!! ¡Por favor, al menos perdona a mi hijo!"
+ },
+ {
+  "ENName": "Reunion Member B",
+  "English": "..."
+ },
+ {
+  "ENName": "Amiya",
+  "English": "...We need to stop this, now.",
+  "Spanish": "...Tenemos que parar esto, ahora."
+ },
+ {
+  "ENName": "Dobermann",
+  "English": "Amiya...",
+  "Spanish": "Amiya..."
+ },
+ {
+  "ENName": "Amiya",
+  "English": "I'm aware of the risk, Instructor Dobermann.",
+  "Spanish": "Soy consciente del riesgo, Instructora Dobermann."
+ },
+ {
+  "English": "It's just that... we don't have the luxury of sitting around waiting for Reunion to disband.",
+  "Spanish": "Es sólo que... no podemos darnos el lujo de sentarnos a esperar a que Reunión se disuelva."
+ },
+ {
+  "English": "Additionally, nobody knows how long this situation will last...",
+  "Spanish": "Además, nadie sabe cuánto durará esta situación..."
+ },
+ {
+  "English": "Therefore, the best course of action would be to take out the enemy and then get moving. Wouldn't you agree?",
+  "Spanish": "Por lo tanto, el mejor curso de acción sería eliminar al enemigo y luego movernos. ¿No estás de acuerdo?"
+ },
+ {
+  "ENName": "Dobermann",
+  "English": "..."
+ },
+ {
+  "English": "Understood. I'll follow your command.",
+  "Spanish": "Entendido. Seguiré tus órdenes."
+ },
+ {
+  "English": "All squads, listen up.",
+  "Spanish": "Todos los escuadrones, escuchen."
+ },
+ {
+  "English": "We have the element of surprise – these Reunion members don't know that we're here yet.",
+  "Spanish": "Tenemos el elemento sorpresa - estos miembros de Reunión no saben que estamos aquí todavía."
+ },
+ {
+  "English": "Remember, be decisive! Take them out, cleanly and swiftly.",
+  "Spanish": "¡Recuerden, sean decisivos! Elimínenlos, limpia y rápidamente."
+ },
+ {
+  "English": "Dr {nombre}, gather your team. It's time for you to prove yourself.",
+  "Spanish": "Dr. {nombre}, reúna a su equipo. Es hora de que demuestres tu valía."
+ },
+ {
+  "English": "We have no more time to second-guess ourselves.",
+  "Spanish": "No tenemos más tiempo para dudar de nosotros mismos."
+ },
+ {
+  "ENName": 1,
+  "English": "You should have told me sooner. ",
+  "Spanish": "Deberías habérmelo dicho antes. "
+ },
+ {
+  "ENName": 2,
+  "English": "... ",
+  "Spanish": " "
+ },
+ {
+  "ENName": 3,
+  "English": "A simple matter. I'll handle this.",
+  "Spanish": "Un asunto sencillo. Yo me encargo de esto."
+ },
+ {
+  "ENName": "Dobermann",
+  "English": "Hah.",
+  "Spanish": "Hah."
+ },
+ {
+  "English": "Amiya, I'm counting on you.",
+  "Spanish": "Amiya, cuento contigo."
+ },
+ {
+  "ENName": "Amiya",
+  "English": "Understood.",
+  "Spanish": "Entendido."
+ },
+ {
+  "ENName": "Amiya",
+  "English": "\"Silent we shall be, should conflict be avoidable––",
+  "Spanish": "\"¡Permaneceremos en silencio si el conflicto puede evitarse…"
+ },
+ {
+  "English": "––but fight tooth and nail, should it be necessary!\"",
+  "Spanish": "––pero lucharemos con uñas y dientes si es necesario!\""
+ },
+ {
+  "English": "Rhodes Island's creed... has always been the same!",
+  "Spanish": "¡El credo de Rhodes Island... siempre ha sido el mismo!"
+ }
+]

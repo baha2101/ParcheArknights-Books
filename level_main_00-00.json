@@ -1,0 +1,600 @@
+[
+ {
+  "English": "Ah, it's you.",
+  "Spanish": "Ah, eres tú."
+ },
+ {
+  "English": "It's been a long time since we've last seen each other.",
+  "Spanish": "Ha pasado mucho tiempo desde la última vez que nos vimos."
+ },
+ {
+  "English": "During this time... you've been teetering on the edge of a cliff.",
+  "Spanish": "Durante este tiempo... has estado tambaleándote en el borde de un acantilado"
+ },
+ {
+  "English": "You may have forgotten who you are, but just remembering your name is enough.",
+  "Spanish": "Puede que hayas olvidado quién eres, pero basta con recordar tu nombre."
+ },
+ {
+  "English": "...It's time. Don't linger here for too long.",
+  "Spanish": "...Es el momento. No te quedes aquí mucho tiempo"
+ },
+ {
+  "English": "After all, you aren't my guest yet, nor should you even be here.",
+  "Spanish": "Después de todo, aún no eres mi invitado, y ni siquiera deberías estar aquí."
+ },
+ {
+  "English": "She still needs you.",
+  "Spanish": "Ella todavía te necesita."
+ },
+ {
+  "English": "December 23rd.",
+  "Spanish": "23 de diciembre"
+ },
+ {
+  "English": "You may not remember what this date means to you.",
+  "Spanish": "Puede que no recuerdes lo que esta fecha significa para ti."
+ },
+ {
+  "English": "And this will thrust you into peril.",
+  "Spanish": "Y esto te pondrá en peligro."
+ },
+ {
+  "English": "...",
+  "Spanish": "..."
+ },
+ {
+  "English": "No...",
+  "Spanish": "No..."
+ },
+ {
+  "English": "You must try to remember.",
+  "Spanish": "Debes tratar de recordar."
+ },
+ {
+  "ENName": "Distant Voice",
+  "English": "...consciousness...",
+  "Spanish": "...la conciencia..."
+ },
+ {
+  "English": "Circulation resumed... vitals stabilized... cardioplegia solution injected…",
+  "Spanish": "La circulación se reanudó... los signos vitales se estabilizaron... se inyectó solución para la cardioplejía..."
+ },
+ {
+  "ENName": "Distant Voice",
+  "English": "Body temperature low... administering Hexamethasone 20 c.c., now...",
+  "Spanish": "Temperatura corporal baja... administrando 20 c.c de Hexametasona, ahora..."
+ },
+ {
+  "ENName": "Distant Voice",
+  "English": "Get the hemostat!",
+  "Spanish": "¡Trae el hemostato!"
+ },
+ {
+  "English": "...Conditions stable... beginning resection... be careful of VFib...",
+  "Spanish": "...Condiciones estables... comenzando la resección... ten cuidado con la fibrilación ventricular..."
+ },
+ {
+  "English": "...Sorry...",
+  "Spanish": "...Lo siento..."
+ },
+ {
+  "English": "For making you suffer again...",
+  "Spanish": "Por hacerte sufrir de nuevo..."
+ },
+ {
+  "ENName": "???",
+  "English": "...",
+  "Spanish": "..."
+ },
+ {
+  "English": "Doctor...",
+  "Spanish": "Doctor..."
+ },
+ {
+  "English": "...hand!",
+  "Spanish": "…mano!"
+ },
+ {
+  "English": "Take my...",
+  "Spanish": "¡Tome mi…!"
+ },
+ {
+  "English": "Take my hand!!",
+  "Spanish": "¡¡Tome mi mano!!"
+ },
+ {
+  "ENName": "???",
+  "English": "…",
+  "Spanish": "…"
+ },
+ {
+  "English": "Emergency...",
+  "Spanish": "Emergencia..."
+ },
+ {
+  "English": "...Help...",
+  "Spanish": "...Ayuda..."
+ },
+ {
+  "English": "...It's done...!",
+  "Spanish": "...¡Lo conseguimos...!"
+ },
+ {
+  "ENName": "???",
+  "English": "Doctor, Doctor!",
+  "Spanish": "¡Doctor, Doctor!"
+ },
+ {
+  "English": "Medic, how's Doctor doing?",
+  "Spanish": "Medic, ¿cómo está el Doctor?"
+ },
+ {
+  "English": "But, just a moment ago... we were holding hands...",
+  "Spanish": "Pero, hace un momento... estábamos tomados de la mano..."
+ },
+ {
+  "English": "So why... why is Doctor still not waking up...?",
+  "Spanish": "Entonces, ¿por qué... por qué el Doctor todavía no se despierta...?"
+ },
+ {
+  "ENName": "Medic",
+  "English": "Amiya! Don't panic, just calm down first!",
+  "Spanish": "¡Amiya! No te asustes, ¡cálmate primero!"
+ },
+ {
+  "ENName": "Amiya",
+  "English": "Ah... S-sorry.",
+  "Spanish": "Ah… Lo-Lo siento."
+ },
+ {
+  "ENName": "Medic",
+  "English": "You always get so flustered when it comes to the doctor.",
+  "Spanish": "Siempre te pones tan nerviosa cuando se trata del Doctor."
+ },
+ {
+  "English": "But, Amiya, if the worst came to pass... what would you do then?",
+  "Spanish": "Pero, Amiya, si sucediera lo peor... ¿Qué harías entonces?"
+ },
+ {
+  "ENName": "Amiya",
+  "English": "...I'm already mentally prepared for that. We would continue to follow the plan.",
+  "Spanish": "Ya estoy mentalmente preparada para eso. Continuaríamos el plan."
+ },
+ {
+  "ENName": "Medic",
+  "English": "...I understand. Anyway, I'll do what you requested.",
+  "Spanish": "Entiendo. De todos modos, haré lo que me pidas."
+ },
+ {
+  "ENName": "Amiya",
+  "English": "All right... I appreciate it.",
+  "Spanish": "Esta bien… Te lo agradezco."
+ },
+ {
+  "English": "About the Doctor...",
+  "Spanish": "Sobre el Doctor…"
+ },
+ {
+  "ENName": "Medic",
+  "English": "Don't worry, Amiya. All the vital signs are stable now.",
+  "Spanish": "No te preocupes, Amiya. Todos los signos vitales están estables ahora."
+ },
+ {
+  "English": "I'll do one more inspection, just for you.",
+  "Spanish": "Haré una inspección más, solo por ti."
+ },
+ {
+  "ENName": "Amiya",
+  "English": "Thank you... Thank you very much!",
+  "Spanish": "¡Gracias… Muchas gracias!"
+ },
+ {
+  "ENName": "Medic",
+  "English": "Mhm. Breathing is slightly shallow, but blood pressure is normal. There should be no cause for concern.",
+  "Spanish": "Hmm… La respiración es un poco artificial, pero la presión arterial es normal. No debe haber motivo de preocupación."
+ },
+ {
+  "ENName": "Amiya",
+  "English": "...!",
+  "Spanish": "...!"
+ },
+ {
+  "ENName": "Medic",
+  "English": "...",
+  "Spanish": "…"
+ },
+ {
+  "English": "Are you awake?",
+  "Spanish": "¿Estas despierto?"
+ },
+ {
+  "English": "Amiya, it's a success! The Doctor has woken up!",
+  "Spanish": "Amiya, ¡Es un éxito! ¡El Doctor se ha despertado!"
+ },
+ {
+  "ENName": "Amiya",
+  "English": "Doctor...?",
+  "Spanish": "¿Doctor…?"
+ },
+ {
+  "English": "I'm so happy... Doctor...",
+  "Spanish": "Estoy tan feliz… Doctor…"
+ },
+ {
+  "ENName": "Medic",
+  "English": "Ah, careful! You mustn't do that...",
+  "Spanish": "¡Ah, cuidado! No debes hacer eso…"
+ },
+ {
+  "English": "Don't try to move yet. Your body still hasn't fully adapted to this.",
+  "Spanish": "No intentes moverte todavía. Tu cuerpo aún no se ha adaptado completamente esto."
+ },
+ {
+  "ENName": "Amiya",
+  "English": "Doctor...?",
+  "Spanish": "¿Doctor…?"
+ },
+ {
+  "ENName": 1,
+  "English": "Who... are you?",
+  "Spanish": "¿Quién... eres?"
+ },
+ {
+  "ENName": "Amiya",
+  "English": "Ah, Doctor... It's me...",
+  "Spanish": "Ah, Doctor… Soy yo…"
+ },
+ {
+  "English": "...",
+  "Spanish": "…"
+ },
+ {
+  "English": "It's me, Amiya.",
+  "Spanish": "Soy yo, Amiya."
+ },
+ {
+  "English": "We've come to rescue you.",
+  "Spanish": "Venimos a rescatarte."
+ },
+ {
+  "ENName": 1,
+  "English": "...Who... am I...?",
+  "Spanish": "¿Quién… soy yo…?"
+ },
+ {
+  "ENName": "Amiya",
+  "English": "You...",
+  "Spanish": "Tu…"
+ },
+ {
+  "English": "You're a member of Rhodes Island, just like us...",
+  "Spanish": "Eres miembro de Rhodes Island, como nosotros…"
+ },
+ {
+  "English": "...as well as my partner.",
+  "Spanish": "…así como mi familia."
+ },
+ {
+  "English": "...Dr. {nombre}.",
+  "Spanish": "...Doctor {nombre}."
+ },
+ {
+  "English": "You're the most important person to me.",
+  "Spanish": "Eres la persona más importante para mí."
+ },
+ {
+  "English": "Doctor... you don't remember?",
+  "Spanish": "Doctor… ¿No lo recuerda?"
+ },
+ {
+  "ENName": 1,
+  "English": "...Can I trust you?",
+  "Spanish": "… ¿Puedo confiar en ti?"
+ },
+ {
+  "ENName": "Amiya",
+  "English": "...",
+  "Spanish": "…"
+ },
+ {
+  "English": "I understand. I know this is a bit much to take in right now.",
+  "Spanish": "Entiendo. Sé que esto es demasiado para asimilar ahora."
+ },
+ {
+  "English": "I don't expect you to remember everything right away, and I'm not asking you to trust me right now.",
+  "Spanish": "No espero que recuerdes todo de inmediato y no te estoy pidiendo que confíes en mí en este momento."
+ },
+ {
+  "ENName": 2,
+  "English": "…",
+  "Spanish": "…"
+ },
+ {
+  "ENName": "Amiya",
+  "English": "Dr. {nombre}, do you really not remember me at all...?",
+  "Spanish": "Doctor. {nombre}, ¿de verdad no se acuerda nada de mí...?"
+ },
+ {
+  "English": "...",
+  "Spanish": "..."
+ },
+ {
+  "English": "Even if that's the case... I won't give up.",
+  "Spanish": "Incluso si ese es el caso... no me rendiré."
+ },
+ {
+  "English": "We've already sacrificed so much, just to find you...",
+  "Spanish": "Ya hemos sacrificado tanto, sólo para encontrarte..."
+ },
+ {
+  "ENName": 3,
+  "English": "I see... Pleased to meet you, Amiya.",
+  "Spanish": "Ya veo… encantado de conocerte, Amiya."
+ },
+ {
+  "ENName": "Amiya",
+  "English": "Ah, um, hello.",
+  "Spanish": "Ah, um, hola."
+ },
+ {
+  "English": "...",
+  "Spanish": "..."
+ },
+ {
+  "English": "I, I don't know how to put this, but so many things have changed from before.",
+  "Spanish": "Yo... no sé cómo decir esto, pero muchas cosas han cambiado."
+ },
+ {
+  "English": "That includes me as well.",
+  "Spanish": "Eso me incluye a mí también."
+ },
+ {
+  "ENName": "Amiya",
+  "English": "However, you'll always be the most important person to me, Doctor. No matter what happens, this will never change.",
+  "Spanish": "Sin embargo, siempre será la persona más importante para mí, Doctor. Pase lo que pase, eso nunca cambiará."
+ },
+ {
+  "English": "So that's why, please... give me a little more time.",
+  "Spanish": "Por eso, por favor… deme un poco más de tiempo."
+ },
+ {
+  "English": "However little it might be...",
+  "Spanish": "Por pequeño que sea…"
+ },
+ {
+  "ENName": 1,
+  "English": "...",
+  "Spanish": "..."
+ },
+ {
+  "ENName": "Medic",
+  "English": "Does the doctor... really have amnesia?",
+  "Spanish": "¿El Doctor… realmente tiene amnesia?"
+ },
+ {
+  "ENName": "Amiya",
+  "English": "...",
+  "Spanish": "..."
+ },
+ {
+  "English": "I'm sure everything will be fine if we give Doctor some space...",
+  "Spanish": "Estoy segura de que todo irá bien si le damos algo de espacio al Doctor..."
+ },
+ {
+  "ENName": 1,
+  "English": "Where is this...",
+  "Spanish": "¿Dónde estamos…?"
+ },
+ {
+  "ENName": "Amiya",
+  "English": "It's safe here—",
+  "Spanish": "Aquí es seguro-"
+ },
+ {
+  "ENName": "Amiya",
+  "English": "Huh? What's happening—",
+  "Spanish": "¿Eh? ¿Que está pasando-?"
+ },
+ {
+  "ENName": "Heavily-Armed Man",
+  "English": "Amiya, we've got a problem!",
+  "Spanish": "¡Amiya, tenemos un problema!"
+ },
+ {
+  "English": "Someone broke into the facility!",
+  "Spanish": "¡Alguien irrumpió en las instalaciones!"
+ },
+ {
+  "ENName": "Heavily-Armed Man",
+  "English": "The way they're dressed... they don't look like Ursus soldiers!",
+  "Spanish": "La forma en la que están vestidos… ¡No se parecen a los soldados de Ursus!"
+ },
+ {
+  "ENName": "Reunion Member",
+  "English": "...",
+  "Spanish": "…"
+ },
+ {
+  "ENName": "Heavily-Armed Man",
+  "English": "What's the meaning of this?!",
+  "Spanish": "¡¿Que significa esto?!"
+ },
+ {
+  "ENName": "Heavily-Armed Man",
+  "English": "They're attacking! Amiya, they're heavily equipped with weapons!",
+  "Spanish": "¡Están atacando! ¡Amiya, están fuertemente equipados con armas!"
+ },
+ {
+  "ENName": "Medic",
+  "English": "Aaaahh!",
+  "Spanish": "¡Aaaahh!"
+ },
+ {
+  "ENName": "Amiya",
+  "English": "Be careful, everyone! Take cover, and protect Doctor!",
+  "Spanish": "¡Todos, tengan cuidado! ¡Cúbranse y protejan al Doctor!"
+ },
+ {
+  "English": "These outfits... are they from the Reunion Movement? But how is that possible...",
+  "Spanish": "Estos atuendos… ¿son del Movimiento Reunión? Pero, ¿cómo es posible…?"
+ },
+ {
+  "English": "Guards, prepare for battle!",
+  "Spanish": "¡Guardias, prepárense para la batalla!"
+ },
+ {
+  "ENName": "Guard",
+  "English": "Roger!",
+  "Spanish": "¡Entendido!"
+ },
+ {
+  "ENName": "Guard",
+  "English": "Curses... Are they after the Doctor?!",
+  "Spanish": "Maldición… ¡¿Van tras el Doctor!?!"
+ },
+ {
+  "ENName": "Amiya",
+  "English": "No... Nobody else should know about the Doctor being here.",
+  "Spanish": "No... Nadie más debería saber que el Doctor está aquí."
+ },
+ {
+  "English": "Are you able to reach Kal'tsit?",
+  "Spanish": "¿Puedes contactar con Kal'tsit?"
+ },
+ {
+  "ENName": "Guard",
+  "English": "I'm not sure why, but the equipment isn't working!",
+  "Spanish": "¡No sé porque, pero el equipo no funciona!"
+ },
+ {
+  "ENName": "Amiya",
+  "English": "...Someone has cut off our communications.",
+  "Spanish": "…Alguien ha cortado nuestras comunicaciones."
+ },
+ {
+  "English": "Have we been discovered by the Ursus government?",
+  "Spanish": "¿Nos ha descubierto el gobierno de Ursus?"
+ },
+ {
+  "ENName": "Guard",
+  "English": "What do we do now?",
+  "Spanish": "¿Qué hacemos ahora?"
+ },
+ {
+  "ENName": "Amiya",
+  "English": "Kal'tsit won't be able to command the battle as we had originally planned.",
+  "Spanish": "Kal'tsit no podrá dirigir la batalla como habíamos planeado originalmente."
+ },
+ {
+  "English": "...",
+  "Spanish": "…"
+ },
+ {
+  "English": "...Dr. {nombre}.",
+  "Spanish": "…Doctor {nombre}."
+ },
+ {
+  "English": "I hope that... you'll be able to take command.",
+  "Spanish": "Espero que… puedas tomar el mando."
+ },
+ {
+  "ENName": "Medic",
+  "English": "Isn't that a bit too risky? The Doctor only just came to...",
+  "Spanish": "¿No es demasiado arriesgado? El Doctor acaba de despertar…"
+ },
+ {
+  "ENName": "Amiya",
+  "English": "I'd like... to give it a try.",
+  "Spanish": "Me gustaría… hacer el intento.."
+ },
+ {
+  "English": "Even without memories, Doctor has...",
+  "Spanish": "Si incluso sin recuerdos, el Doctor ha…"
+ },
+ {
+  "English": "...fought alongside us before.",
+  "Spanish": "…luchado junto a nosotros antes."
+ },
+ {
+  "ENName": "???",
+  "English": "Thank you for all of your guidance...",
+  "Spanish": "Gracias por toda su guía."
+ },
+ {
+  "ENName": "Amiya",
+  "English": "...",
+  "Spanish": "…"
+ },
+ {
+  "English": "We've been through so much together...",
+  "Spanish": "Hemos pasado por muchas cosas juntos…"
+ },
+ {
+  "English": "Doctor... I just know that you'll be able to do it.",
+  "Spanish": "Doctor… solo sé que podrás hacerlo."
+ },
+ {
+  "ENName": "???",
+  "English": "I know that you'll lead us to victory.",
+  "Spanish": "Sé que nos conducirás a la victoria."
+ },
+ {
+  "ENName": "Amiya",
+  "English": "I understand that asking you to do this is very sudden and inconsiderate.",
+  "Spanish": "Entiendo que pedirle que haga esto es muy repentino y desconsiderado."
+ },
+ {
+  "English": "But... Please, lend us your aid.",
+  "Spanish": "Pero… Por favor, ayúdenos."
+ },
+ {
+  "English": "We'll be supporting you!",
+  "Spanish": "¡Le apoyaremos!"
+ },
+ {
+  "ENName": 1,
+  "English": "Let's push them back first!",
+  "Spanish": "¡Hagamos que retrocedan primero!"
+ },
+ {
+  "ENName": 2,
+  "English": " ...",
+  "Spanish": "..."
+ },
+ {
+  "ENName": 3,
+  "English": "We have no choice but to fight back, right?",
+  "Spanish": "No tenemos más opción que luchar, ¿verdad?"
+ },
+ {
+  "ENName": "Amiya",
+  "English": "Mm... I don't want to drag you into this.",
+  "Spanish": "Mm… No quisiera arrastrarte a esto."
+ },
+ {
+  "English": "But right now, we need your wisdom more than ever, Dr. {nombre}.",
+  "Spanish": "Pero ahora mismo, necesitamos su sabiduría más que nunca, Doctor {nombre}."
+ },
+ {
+  "English": "I hope that a part of you will reawaken during combat.",
+  "Spanish": "Espero que una parte de ti se despierte durante el combate."
+ },
+ {
+  "English": "Even though you might have doubts about yourself...",
+  "Spanish": "Aunque tengas dudas sobre ti mismo…"
+ },
+ {
+  "English": "But I believe in you.",
+  "Spanish": "Pero yo creo en ti"
+ },
+ {
+  "ENName": "Amiya",
+  "English": "I know you can do this.",
+  "Spanish": "Yo sé que puedes hacer esto."
+ },
+ {
+  "English": "Please take command... of Rhodes Island!",
+  "Spanish": "¡Por favor, toma el mando… de Rhodes Island!"
+ }
+]
